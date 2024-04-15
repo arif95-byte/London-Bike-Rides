@@ -12,7 +12,7 @@ This project is to analyze on how many people in London rides bikes based on the
 2. Install Python packages.
 
 ### Snippet
-<img src="C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2024-04-15 110434.png" alt='Logo' width='200' height='200'/>
+!["C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2024-04-15 110434.png"](screenshot.png)
 Example of on how many people rides bikes based on the Temperature and wind speed.
 
 ### Credits
