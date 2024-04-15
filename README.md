@@ -12,8 +12,9 @@ This project is to analyze on how many people in London rides bikes based on the
 2. Install Python packages.
 
 ### Snippet
-!["C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2024-04-15 110434.png"](screenshot.png)
-Example of on how many people rides bikes based on the Temperature and wind speed.
+![image](https://github.com/arif95-byte/London-Bike-Rides/assets/75437274/ef1f971e-7fb8-4ab8-aa8d-1d23cb3d48fc)
+
+Visualize of on how many people rides bikes based on the Temperature and wind speed.
 
 ### Credits
 Thank you to Kaggle for allowing to download the dataset for my project. Hope you guys enjoyed it. Thank you.
